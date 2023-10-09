@@ -285,4 +285,4 @@ def slice_and_process(image, action, resolution, overlay_only=False):
     
 
 # Invoke the function to slice and process
-slice_and_process(high_res, action="save", resolution=phone_res, overlay_only=True)
+slice_and_process(high_res, action="save", resolution=phone_res, overlay_only=true)
